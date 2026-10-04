@@ -7,3 +7,5 @@ This is a semantic HTML single-page CV project.
    ```bash
   https://github.com/lubegaibra24-a11y/Semantic-HTML-Single-Page-CV
 
+  https://roadmap.sh/projects/single-page-cv
+
